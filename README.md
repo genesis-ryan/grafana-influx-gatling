@@ -41,7 +41,9 @@ docker-compose down
 
 ## grafana ui
 http://10.200.18.129:3000/
+
 account:admin
+
 pass:admin
 
 ## reminder
