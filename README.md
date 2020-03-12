@@ -4,7 +4,10 @@ docker compose file already clone on 10.200.18.129
 
 ## active gatling graphite
 remove comment on
+```
 vim /home/${user}/krug-gatling/src/test/resources/gatling.conf
+```
+
 ```
 data {
   writers = [file, graphite]      
